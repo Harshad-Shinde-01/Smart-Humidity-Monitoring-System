@@ -1,0 +1,3 @@
+Blynk Auth Token: YourAuthToken
+WiFi SSID: YourWiFiSSID
+WiFi Password: YourWiFiPassword
